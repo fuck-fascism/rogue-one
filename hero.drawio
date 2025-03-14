@@ -4,144 +4,144 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GETbyj5P_YYwZANEKlcK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-21" target="GETbyj5P_YYwZANEKlcK-2">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GETbyj5P_YYwZANEKlcK-21" target="GETbyj5P_YYwZANEKlcK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-1" value="Requirement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-1" value="Requirement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-4">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-6">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-10">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-2" value="Plan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-2" value="Plan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-50" target="GETbyj5P_YYwZANEKlcK-12">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-50" target="GETbyj5P_YYwZANEKlcK-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-50" target="GETbyj5P_YYwZANEKlcK-14">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-50" target="GETbyj5P_YYwZANEKlcK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-50" target="GETbyj5P_YYwZANEKlcK-15">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-50" target="GETbyj5P_YYwZANEKlcK-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-4" value="Phrase 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-4" value="Phrase 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="81" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-6" value="Phase 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-6" value="Phase 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="101" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-10" value="Phase 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-10" value="Phase 3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="121" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-12" value="Step 1&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Phase%202%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22680%22%20y%3D%22110%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-12" value="Step 1&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Phase%202%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22680%22%20y%3D%22110%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="81" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-14" value="Step 2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Step%201%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Phase%25202%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522680%2522%2520y%253D%2522110%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22880%22%20y%3D%2240%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-14" value="Step 2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Step%201%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Phase%25202%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522680%2522%2520y%253D%2522110%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22880%22%20y%3D%2240%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="101" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-15" value="Step 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-15" value="Step 3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="121" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-4" target="GETbyj5P_YYwZANEKlcK-18">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-4" target="GETbyj5P_YYwZANEKlcK-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="125" as="sourcePoint" />
             <mxPoint x="1480" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-18" target="GETbyj5P_YYwZANEKlcK-50">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GETbyj5P_YYwZANEKlcK-18" target="GETbyj5P_YYwZANEKlcK-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-18" value="Is MultiPhrase?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-18" value="Is MultiPhrase?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="54" width="120" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-1" target="GETbyj5P_YYwZANEKlcK-21">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GETbyj5P_YYwZANEKlcK-1" target="GETbyj5P_YYwZANEKlcK-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="70" as="sourcePoint" />
             <mxPoint x="380" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-21" target="GETbyj5P_YYwZANEKlcK-24">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-21" target="GETbyj5P_YYwZANEKlcK-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-21" value="Needs&lt;br&gt;&amp;nbsp;Planning?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-21" value="Needs&lt;br&gt;&amp;nbsp;Planning?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="15" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-24" value="Tool Call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-24" value="Tool Call" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="121" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-34" target="GETbyj5P_YYwZANEKlcK-59">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-34" target="GETbyj5P_YYwZANEKlcK-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-43" value="IteratePhraseList" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-43" value="IteratePhraseList" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="10" width="240" height="210" as="geometry">
             <mxRectangle x="600" y="10" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-44" value="Iterate over the list of phrases.&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Create a book about cats.&lt;br&gt;Create an outline then iterate over the outline to so specific sections. Feedback over the output against the current Input to evaluate if the solution is tracking to the problem, and if the plan needs to be updated to reflect new information." style="whiteSpace=wrap;html=1;" vertex="1" parent="GETbyj5P_YYwZANEKlcK-43">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-44" value="Iterate over the list of phrases.&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Create a book about cats.&lt;br&gt;Create an outline then iterate over the outline to so specific sections. Feedback over the output against the current Input to evaluate if the solution is tracking to the problem, and if the plan needs to be updated to reflect new information." style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-43" vertex="1">
           <mxGeometry x="7.5" y="30" width="225" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-34" value="ExtractPhraseList" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-34" value="ExtractPhraseList" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="-20" width="150" height="30" as="geometry">
             <mxRectangle x="600" y="-20" width="210" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-35" value="Extract the list of phrases&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Isolate the steps for creating the book to be send for further analysis." style="whiteSpace=wrap;html=1;" vertex="1" parent="GETbyj5P_YYwZANEKlcK-34">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-35" value="Extract the list of phrases&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Isolate the steps for creating the book to be send for further analysis." style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-34" vertex="1">
           <mxGeometry y="23" width="210" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-40" value="GeneratePhraseList" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-40" value="GeneratePhraseList" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="-50" width="150" height="30" as="geometry">
             <mxRectangle x="600" y="-50" width="210" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-41" value="Generate a list of phrases&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Generate a Set of Steps for writing the book." style="whiteSpace=wrap;html=1;" vertex="1" parent="GETbyj5P_YYwZANEKlcK-40">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-41" value="Generate a list of phrases&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Generate a Set of Steps for writing the book." style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-40" vertex="1">
           <mxGeometry y="23" width="210" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-40" target="GETbyj5P_YYwZANEKlcK-57">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-40" target="GETbyj5P_YYwZANEKlcK-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-48" value="ValidMultiPhraseInput" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-48" value="ValidMultiPhraseInput" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="-80" width="150" height="30" as="geometry">
             <mxRectangle x="600" y="-80" width="210" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-49" value="Evaluate input for parsing&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Create a book about cats.&lt;div&gt;&lt;br&gt;Is this a valid input for parsing?&amp;nbsp;&lt;br&gt;Yes, creating a book about cats requires several steps.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="GETbyj5P_YYwZANEKlcK-48">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-49" value="Evaluate input for parsing&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Create a book about cats.&lt;div&gt;&lt;br&gt;Is this a valid input for parsing?&amp;nbsp;&lt;br&gt;Yes, creating a book about cats requires several steps.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-48" vertex="1">
           <mxGeometry y="23" width="210" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-50" value="Generate Steps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-50" value="Generate Steps" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="77" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-53" value="Is it valid input.&lt;br&gt;Does it fit the criteria for this process?&lt;br&gt;Is this process the right tool for the job.&lt;br&gt;How can this tool solve the input?&lt;br&gt;&lt;br&gt;Evaluate appropriateness" style="whiteSpace=wrap;html=1;align=left;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-53" value="Is it valid input.&lt;br&gt;Does it fit the criteria for this process?&lt;br&gt;Is this process the right tool for the job.&lt;br&gt;How can this tool solve the input?&lt;br&gt;&lt;br&gt;Evaluate appropriateness" style="whiteSpace=wrap;html=1;align=left;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="-185" width="310" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GETbyj5P_YYwZANEKlcK-49" target="GETbyj5P_YYwZANEKlcK-53">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GETbyj5P_YYwZANEKlcK-49" target="GETbyj5P_YYwZANEKlcK-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-56" value="ReturnSuccess" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-56" value="ReturnSuccess" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="180" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-57" value="Generate a PhraseListSource&amp;nbsp;for the ValidMultiPhraseInput. This is a single output that profiles the contours of the PhraseListGoal as actionable assertions." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-57" value="Generate a PhraseListSource&amp;nbsp;for the ValidMultiPhraseInput. This is a single output that profiles the contours of the PhraseListGoal as actionable assertions." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="-90" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-59" value="Extract the Phrase List from the returned PhraseListSource." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-59" value="Extract the Phrase List from the returned PhraseListSource." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="-20" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-61" value="Extract the Phrase List from the returned PhraseList." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-61" value="Extract the Phrase List from the returned PhraseList." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="10" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-55" value="ReturnFailure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GETbyj5P_YYwZANEKlcK-55" value="ReturnFailure" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="200" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
