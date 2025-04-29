@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GETbyj5P_YYwZANEKlcK-1" value="Requirement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-95" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GETbyj5P_YYwZANEKlcK-5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GETbyj5P_YYwZANEKlcK-44" target="GETbyj5P_YYwZANEKlcK-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,7 +115,13 @@
           <mxGeometry x="635" y="-140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cMDd89x_xVnOQtX1BIiP-1" value="Create context from code." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-350" width="190" height="60" as="geometry" />
+          <mxGeometry x="305" y="-500" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMDd89x_xVnOQtX1BIiP-2" value="Suggest Feature/Edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-570" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMDd89x_xVnOQtX1BIiP-3" value="Use available prediction API limit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
