@@ -108,6 +108,39 @@
         <mxCell id="4o9Aga6gmgFH_9fT-B03-4" value="splitters" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="-660" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-5" value="Test Driven" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="-640" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4o9Aga6gmgFH_9fT-B03-7" target="4o9Aga6gmgFH_9fT-B03-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-7" value="Propose Edit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o9Aga6gmgFH_9fT-B03-8" target="4o9Aga6gmgFH_9fT-B03-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-8" value="Create Edit Test" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o9Aga6gmgFH_9fT-B03-10" target="4o9Aga6gmgFH_9fT-B03-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-10" value="Create Edit Main" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o9Aga6gmgFH_9fT-B03-14" target="4o9Aga6gmgFH_9fT-B03-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-14" value="Run Test" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-16" value="Evaluate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4o9Aga6gmgFH_9fT-B03-18" value="Need a list of criteria for each test so that as a feature is added the criteria can be used a checklist." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="-730" width="210" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
