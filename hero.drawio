@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="hSJv2u5-FxoKJNzQkAV-">
-    <mxGraphModel dx="1111" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="1852" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,12 +88,12 @@
           <mxGeometry x="620" y="-430" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMDd89x_xVnOQtX1BIiP-3" value="Use available prediction API limit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-290" width="120" height="60" as="geometry" />
+          <mxGeometry x="625" y="-290" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xY59ZEsb-rLchHEWTIaU-1" value="Document Manager&lt;div&gt;&lt;br&gt;The system needs to be able to create documents and consume them for building completion contexts.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xY59ZEsb-rLchHEWTIaU-1" value="Document Manager&lt;div&gt;&lt;br&gt;The system needs to be able to create documents and consume them for building completion contexts.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="-560" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xY59ZEsb-rLchHEWTIaU-2" value="&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xY59ZEsb-rLchHEWTIaU-2" value="&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="-570" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
