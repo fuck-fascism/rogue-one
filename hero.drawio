@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="hSJv2u5-FxoKJNzQkAV-">
-    <mxGraphModel dx="3703" dy="2690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="1330" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,9 +194,9 @@
             <mxRectangle x="130" y="-350" width="280" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-43" value="IteratePhraseList" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;shadow=1;part=1;autosize=1;autosizeGrid=0;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1">
-          <mxGeometry x="10" y="121" width="260" height="329" as="geometry">
-            <mxRectangle x="10" y="121" width="260" height="20" as="alternateBounds" />
+        <mxCell id="GETbyj5P_YYwZANEKlcK-43" value="IteratePhraseList" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=default;shadow=1;part=1;autosize=1;autosizeGrid=0;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1" collapsed="1">
+          <mxGeometry x="10" y="121" width="260" height="20" as="geometry">
+            <mxRectangle x="10" y="121" width="260" height="329" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GETbyj5P_YYwZANEKlcK-44" value="Iterate over the list of phrases.&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Create a book about cats.&lt;br&gt;Create an outline then iterate over the outline to so specific sections. Feedback over the output against the current Input to evaluate if the solution is tracking to the problem, and if the plan needs to be updated to reflect new information." style="whiteSpace=wrap;html=1;noLabel=0;labelPadding=0;overflow=visible;absoluteArcSize=0;imageAspect=1;portConstraintRotation=0;snapToPoint=1;part=1;backgroundOutline=1;autosize=1;autosizeGrid=1;fixedWidth=1;resizeWidth=1;treeFolding=0;treeMoving=0;enumerate=0;comic=0;spacing=4;" parent="GETbyj5P_YYwZANEKlcK-43" vertex="1">
@@ -220,9 +220,9 @@
         <mxCell id="JYHLU_MuSt27tHj3S0xl-2" value="execute" style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-43" vertex="1">
           <mxGeometry x="110" y="209" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-34" value="ExtractPhraseList" style="swimlane;whiteSpace=wrap;html=1;rounded=0;shadow=1;swimlaneLine=1;glass=0;noLabel=0;strokeColor=default;horizontal=1;fixDash=0;container=1;metaEdit=0;backgroundOutline=0;autosize=1;treeFolding=0;fixedWidth=0;autosizeGrid=1;separatorColor=#242424;swimlaneFillColor=default;perimeter=rectanglePerimeter;snapToPoint=0;portConstraintRotation=0;gradientColor=none;perimeterSpacing=0;swimlaneHead=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1" collapsed="1">
-          <mxGeometry x="10" y="90" width="260" height="20" as="geometry">
-            <mxRectangle x="10" y="90" width="260" height="160" as="alternateBounds" />
+        <mxCell id="GETbyj5P_YYwZANEKlcK-34" value="ExtractPhraseList" style="swimlane;whiteSpace=wrap;html=1;rounded=0;shadow=1;swimlaneLine=1;glass=0;noLabel=0;strokeColor=default;horizontal=1;fixDash=0;container=1;metaEdit=0;backgroundOutline=0;autosize=1;treeFolding=0;fixedWidth=0;autosizeGrid=1;separatorColor=#242424;swimlaneFillColor=default;perimeter=rectanglePerimeter;snapToPoint=0;portConstraintRotation=0;gradientColor=none;perimeterSpacing=0;swimlaneHead=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;connectable=1;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1">
+          <mxGeometry x="10" y="90" width="260" height="160" as="geometry">
+            <mxRectangle x="10" y="90" width="260" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GETbyj5P_YYwZANEKlcK-35" value="Extract the list of phrases&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Isolate the steps for creating the book to be send for further analysis." style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-34" vertex="1">
@@ -231,9 +231,9 @@
         <mxCell id="GETbyj5P_YYwZANEKlcK-59" value="Extract the Phrase List from the returned PhraseListSource." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" parent="GETbyj5P_YYwZANEKlcK-34" vertex="1">
           <mxGeometry x="7.5" y="30" width="242.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-40" value="GeneratePhraseListSource" style="swimlane;whiteSpace=wrap;html=1;shadow=1;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1" collapsed="1">
-          <mxGeometry x="10" y="60" width="260" height="20" as="geometry">
-            <mxRectangle x="10" y="60" width="260" height="200" as="alternateBounds" />
+        <mxCell id="GETbyj5P_YYwZANEKlcK-40" value="GeneratePhraseListSource" style="swimlane;whiteSpace=wrap;html=1;shadow=1;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1">
+          <mxGeometry x="10" y="60" width="260" height="200" as="geometry">
+            <mxRectangle x="10" y="60" width="260" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GETbyj5P_YYwZANEKlcK-41" value="Generate a list of phrases&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Generate a Set of Steps for writing the book." style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-40" vertex="1">
@@ -242,9 +242,9 @@
         <mxCell id="GETbyj5P_YYwZANEKlcK-57" value="Generate a PhraseListSource&amp;nbsp;for the ValidMultiPhraseInput. This is a single output that profiles the contours of the PhraseListGoal as actionable assertions." style="whiteSpace=wrap;html=1;align=left;textShadow=1;" parent="GETbyj5P_YYwZANEKlcK-40" vertex="1">
           <mxGeometry y="110" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GETbyj5P_YYwZANEKlcK-48" value="ValidMultiPhraseInput" style="swimlane;whiteSpace=wrap;html=1;shadow=1;swimlaneFillColor=default;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1" collapsed="1">
-          <mxGeometry x="10" y="30" width="260" height="20" as="geometry">
-            <mxRectangle x="10" y="30" width="260" height="190" as="alternateBounds" />
+        <mxCell id="GETbyj5P_YYwZANEKlcK-48" value="ValidMultiPhraseInput" style="swimlane;whiteSpace=wrap;html=1;shadow=1;swimlaneFillColor=default;" parent="nzE7-ngNFehU8ziRlf7g-19" vertex="1">
+          <mxGeometry x="10" y="30" width="260" height="190" as="geometry">
+            <mxRectangle x="10" y="30" width="260" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GETbyj5P_YYwZANEKlcK-49" value="Evaluate input for parsing&lt;br&gt;&lt;br&gt;Example:&lt;br&gt;Create a book about cats.&lt;div&gt;&lt;br&gt;Is this a valid input for parsing?&amp;nbsp;&lt;br&gt;Yes, creating a book about cats requires several steps.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="GETbyj5P_YYwZANEKlcK-48" vertex="1">
